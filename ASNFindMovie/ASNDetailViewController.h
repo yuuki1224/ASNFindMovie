@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ASNDetailViewController.h
 //  ASNFindMovie
 //
 //  Created by AsanoYuki on 2015/03/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ASNDetailViewController : UIViewController
 
 @end
-
